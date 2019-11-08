@@ -18,3 +18,6 @@ the similarity search. Extensive evaluation performed on OTB-
 2013/50/100 and VOT2018 benchmark datasets demonstrate the
 proposed tracker outperforms state-of-the-art approaches while
 maintaining real-time tracking speed.
+
+## Paper link
+[Paper](https://ieeexplore.ieee.org/abstract/document/8804242)
