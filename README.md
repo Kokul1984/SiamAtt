@@ -40,3 +40,6 @@ doi={10.1109/TIFS.2019.2935871},
 ISSN={},
 month={},}
 ```
+
+## Contact
+If you have any other question, you can contact me by email: kokul1984@gmail.com, kokul@vau.jfn.ac.lk
