@@ -21,3 +21,20 @@ maintaining real-time tracking speed.
 
 ## Paper link
 [Paper](https://ieeexplore.ieee.org/abstract/document/8804242)
+
+## Citation 
+```python
+Please cite the above publication if you use the code or compare with the SiamAtts tracker in your work. Bibtex entry:
+@ARTICLE{8804242,
+author={K. {Thanikasalam} and C. {Fookes} and S. {Sridharan} and A. {Ramanan} and A. {Pinidiyaarachchi}},
+journal={IEEE Transactions on Information Forensics and Security},
+title={Target-Specific Siamese Attention Network for Real-time Object Tracking},
+year={2019},
+volume={},
+number={},
+pages={1-1},
+keywords={Visual object tracking;Deep neural networks;Siamese network;Attention network},
+doi={10.1109/TIFS.2019.2935871},
+ISSN={},
+month={},}
+```
