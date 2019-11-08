@@ -23,8 +23,10 @@ maintaining real-time tracking speed.
 [Paper](https://ieeexplore.ieee.org/abstract/document/8804242)
 
 ## Citation 
-```python
+
 Please cite the above publication if you use the code or compare with the SiamAtts tracker in your work. Bibtex entry:
+
+```python
 @ARTICLE{8804242,
 author={K. {Thanikasalam} and C. {Fookes} and S. {Sridharan} and A. {Ramanan} and A. {Pinidiyaarachchi}},
 journal={IEEE Transactions on Information Forensics and Security},
